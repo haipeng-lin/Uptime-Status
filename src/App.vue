@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen flex flex-col bg-gradient-to-br from-gray-50 via-gray-50 to-gray-100 
     dark:from-gray-900 dark:via-gray-900 dark:to-gray-800 transition-colors duration-300">
-    <div class="flex-1 p-3 sm:p-8">
+    <div class="flex-1 p-3 sm:p-8" style = "background: url(https://img.haipeng-lin.cn/1769224038788.webp) top; background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
       <main class="max-w-7xl mx-auto space-y-8">
         <Header 
           ref="headerRef"
