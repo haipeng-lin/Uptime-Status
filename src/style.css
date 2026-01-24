@@ -82,3 +82,9 @@
   width: 100%;
   margin: 0 auto;
 }
+
+* {
+   font-family: Yozai,Yozai,Yozai,sans-serif; /* 字体 */
+   -ms-overflow-style: none;  /* IE and Edge */
+   scrollbar-width: none;  /* Firefox */
+}
